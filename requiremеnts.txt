@@ -1,0 +1,6 @@
+wget 3.2
+requests 2.26.0
+vk-api
+SQLAlchemy
+
+
